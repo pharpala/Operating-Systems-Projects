@@ -1,0 +1,11 @@
+version: '3'
+services:
+  cis3110:
+    tty: true
+    user: socs
+    hostname: cis3110
+    image: socsguelph/cis3110:w24
+    ports: 
+      - "22"
+    volumes:
+      - ./:/home/socs/workdir
