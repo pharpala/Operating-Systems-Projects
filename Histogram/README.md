@@ -35,15 +35,15 @@ The application architecture involves a parent process and multiple child proces
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/pharpala/Operating-Systems-Projects/tree/main/Spellchecker
+   git clone https://github.com/pharpala/Operating-Systems-Projects/tree/main/Histogram
 
 2. Navigate to repository
    ```bash
-   cd Spellchecker
+   cd Histogram
 
 3. Run the program
    ```bash
-   ./A2checker
+   ./main
 
 4. Follow the instructions from the GUI
    **
