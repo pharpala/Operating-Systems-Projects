@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Welcome to the Multithreaded Spellchecker project, developed as part of the CIS 3110 Operating Systems course. This project demonstrates the practical use of threads and thread synchronization in a real-world application scenario. The core functionality revolves around a spell-checking service that performs computationally intensive tasks, leveraging multithreading to maintain responsiveness and efficiency.
+Welcome to the Multithreaded Spellchecker project, developed as part of the CIS 3110 Operating Systems course and received a grade of 100/100. This project demonstrates the practical use of threads and thread synchronization in a real-world application scenario. The core functionality revolves around a spell-checking service that performs computationally intensive tasks, leveraging multithreading to maintain responsiveness and efficiency. The program uses detached threads and is free of deadlocks / livelocks and race conditions known.
 
 ## Overview
 
@@ -27,8 +27,7 @@ This project aims to provide hands-on experience with common concurrency pattern
 
 ### Prerequisites
 
-- An environment capable of running C code.
-- Pthreads library installed.
+- CIS 3110 Docker Image, as a University of Guelph student, you can obtain it from here .
 
 ### Installation
 
@@ -44,6 +43,9 @@ This project aims to provide hands-on experience with common concurrency pattern
    ```bash
    ./A2checker
 
+4. Follow the instructions from the GUI
+   **
+
 ## Reminder
 
-![Linux](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![Made with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
