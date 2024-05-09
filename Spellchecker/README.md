@@ -30,6 +30,20 @@ This project aims to provide hands-on experience with common concurrency pattern
 - An environment capable of running C code.
 - Pthreads library installed.
 
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/pharpala/Operating-Systems-Projects/tree/main/Spellchecker
+
+2. Navigate to repository
+   ```bash
+   cd Spellchecker
+
+3. Run the program
+   ```bash
+   ./A2checker
+
 ## Reminder
 
 ![Linux](http://ForTheBadge.com/images/badges/built-with-love.svg)
