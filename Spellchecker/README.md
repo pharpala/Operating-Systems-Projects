@@ -1,5 +1,10 @@
 # Multithreaded Spellchecker
 
+## Main technologies used
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ## Introduction
 
 Welcome to the Multithreaded Spellchecker project, developed as part of the CIS 3110 Operating Systems course. This project demonstrates the practical use of threads and thread synchronization in a real-world application scenario. The core functionality revolves around a spell-checking service that performs computationally intensive tasks, leveraging multithreading to maintain responsiveness and efficiency.
@@ -24,3 +29,7 @@ This project aims to provide hands-on experience with common concurrency pattern
 
 - An environment capable of running C code.
 - Pthreads library installed.
+
+## Reminder
+
+![Linux](http://ForTheBadge.com/images/badges/built-with-love.svg)
